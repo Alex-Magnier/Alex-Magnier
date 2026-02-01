@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=007ACC&height=200&section=header&text=Alex%20Magnier&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://discord.com/channels/@me/1458430892623266007/1467544132997349457" width="100%" />
 
 # 👋 Salut ! Moi c'est Alex, 17 ans
 

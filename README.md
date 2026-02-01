@@ -4,7 +4,7 @@
 
 **Aspiring Full Stack Developer 🚀**
 
-Passionné par le développement web, je suis actuellement une [roadmap intensive](https://github.com/Alex-Magnier/Saint-Valentin/blob/main/ROADMAP-FULLSTACK-COMPLETE.md) pour transformer des idées complexes en interfaces simples et interactives.
+Passionné par le développement web, je suis actuellement une [roadmap intensive](https://github.com/Alex-Magnier/Ma-RoadMap/blob/main/README.md) pour transformer des idées complexes en interfaces simples et interactives.
 
 ---
 
@@ -19,7 +19,7 @@ Jeux vidéos • Musique • Sport • Coding
 </div>
 
 ## 🚀 Mon Apprentissage
-Actuellement concentré sur les fondamentaux de ma [roadmap](https://github.com/Alex-Magnier/Saint-Valentin/blob/main/ROADMAP-FULLSTACK-COMPLETE.md) :
+Actuellement concentré sur les fondamentaux de ma [roadmap](https://github.com/Alex-Magnier/Ma-RoadMap/blob/main/README.md) :
 - 🟡 **HTML5 / CSS3** (En cours d'apprentissage)
 - 🔴 **JavaScript** (Prochaine étape majeure)
 - ⚪ **React / Node.js** (Objectif final)

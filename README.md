@@ -34,7 +34,7 @@ Actuellement concentré sur les fondamentaux de ma [roadmap](https://github.com/
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Alex-Magnier&show_icons=true&theme=radical&hide_border=true" alt="Stats Alex" />
+<img src="https://github-readme-stats.vercel.app/api?username=Alex-Magnier&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
 </p>
 
 ---

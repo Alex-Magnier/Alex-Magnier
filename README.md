@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://discord.com/channels/@me/1458430892623266007/1467544132997349457" width="100%" />
-
 # 👋 Salut ! Moi c'est Alex, 17 ans
 
 **Aspiring Full Stack Developer 🚀**

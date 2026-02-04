@@ -13,8 +13,11 @@ Jeux vidéos • Musique • Sport • Coding
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Me contacter ou voir mes projets
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-Magnier) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alex.mag08) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zartex_x) [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/alex-magnier)
+
+### 💵 Me soutenir
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W51TKXLS)
 
 </div>
 
@@ -24,12 +27,9 @@ Actuellement concentré sur les fondamentaux de ma [roadmap](https://github.com/
 - 🔴 **JavaScript** (Prochaine étape majeure)
 - ⚪ **React / Node.js** (Objectif final)
 
-## 🛠️ Skills & Technologies
-### 💻 Frontend & Languages
+## 🛠️ Compétences
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+SOON
 </p>
 
 ## 📊 GitHub Stats

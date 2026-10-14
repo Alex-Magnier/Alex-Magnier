@@ -22,7 +22,8 @@ Jeux vidéos • Musique • Sport • Code
 </div>
 
 ## 🚀 Mon Apprentissage
-- 🟡 **HTML5 (En cours d'apprentissage)
+- 🟢 **HTML5
+- 🟡 **CSS3
 
 ## 🛠️ Compétences
 <p align="left">

@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # 👋 Salut ! Moi c'est Alex, 17 ans
 
@@ -32,7 +32,7 @@ Jeux vidéos • Musique • Sport • Code
 
 ---
 
-<div align="center">
+<div align="left">
 
 📫 Contact : **a.magnier.contact@gmail.com**
 

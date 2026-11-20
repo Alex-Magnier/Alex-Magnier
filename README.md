@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="./banniere.png" width="100%" alt="Bannière Alex Magnier">
+</p>
+
 <div align="center">
 
 # 👋 Salut ! Moi c'est Alex

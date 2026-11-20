@@ -15,7 +15,7 @@ Passionné par le développement, l'UI/UX, l'intelligence artificielle et l'admi
 
 - 🎓 Étudiant à **La Manu**, j'apprends à concevoir des applications web et à gérer des projets techniques.
 - 🌱 Actuellement, je consolide mes bases en développement et j'explore la configuration d'environnements locaux (Homelab, réseaux).
-- 🎯 **Loisirs & Intérêts :** Skate, trail running, jeux vidéo.
+- 🎯 **Loisirs & Intérêts :** Skate, trail, running, jeux vidéo.
 
 ---
 
@@ -30,7 +30,6 @@ Passionné par le développement, l'UI/UX, l'intelligence artificielle et l'admi
 
 **📚 En cours d'apprentissage**
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-En%20apprentissage-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-En%20apprentissage-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **🎨 Design**
